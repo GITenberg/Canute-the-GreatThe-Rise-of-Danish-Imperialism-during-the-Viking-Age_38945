@@ -1,0 +1,34 @@
+_repo: Canute-the-GreatThe-Rise-of-Danish-Imperialism-during-the-Viking-Age_38945
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Larson, Laurence Marcellus
+    birthdate: 1868
+    deathdate: 1938
+    gutenberg_agent_id: '39730'
+    url: http://www.gutenberg.org/2009/agents/39730
+description: ''
+gutenberg_issued: '2012-02-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38945'
+  lccn: '12024043'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DL'
+- !lcsh 'Canute I, King of England, 995?-1035'
+- !lcsh 'Denmark -- Kings and rulers -- Biography'
+- !lcsh 'Vikings -- Great Britain'
+- !lcsh 'Danes -- England -- Kings and rulers -- Biography'
+- !lcsh 'Northmen -- Great Britain'
+- !lcsh 'Great Britain -- History -- Canute, 1017-1035'
+- !lcsh 'Great Britain -- Civilization -- Scandinavian influences'
+title: Canute the Great, 995 (circa)-1035, and the Rise of Danish Imperialism during
+  the Viking Age
+url: http://www.gutenberg.org/ebooks/38945
