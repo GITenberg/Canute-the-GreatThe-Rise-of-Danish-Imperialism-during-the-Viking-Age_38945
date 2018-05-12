@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '39730'
     url: http://www.gutenberg.org/2009/agents/39730
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38945#Canute-the-GreatThe-Rise-of-Danish-Imperialism-during-the-Viking-Age
 gutenberg_issued: '2012-02-21'
 gutenberg_type: Text
 identifiers:
